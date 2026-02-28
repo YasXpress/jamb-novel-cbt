@@ -480,6 +480,467 @@ const jambNovelQuestions = [
   answer: "It’s like hanging a snake in the roof and going to bed",
   explanation: "The MD warns that ignoring the huge fund is dangerous, using this vivid simile to show the risk of loss or theft.",
   reference: "She cautions the board that ‘keeping so much money unmonitored is like hanging a snake in the roof and going to bed.’"
+},{
+  question: "From the novel *The Lekki Headmaster*, what decision does the board make about loans from the cooperative?",
+  options: [
+    "No loans can be given to staff under any circumstances",
+    "All loan requests must be approved by the staff union",
+    "Staff loans cannot exceed ₦250,000",
+    "The cooperative must stop lending money to staff immediately"
+  ],
+  answer: "Staff loans cannot exceed ₦250,000",
+  explanation: "After reviewing financial records, the board fixed a ₦250,000 limit on loans to ensure fair access and prevent misuse of funds.",
+  reference: "The MD announced that henceforth, no cooperative loan above ₦250,000 would be approved for any staff member."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why do some teachers at Stardom Schools dread Open Day?",
+  options: [
+    "They are afraid of being sacked",
+    "They dislike interacting with parents",
+    "Parents often come with complaints",
+    "The day involves long hours of work"
+  ],
+  answer: "Parents often come with complaints",
+  explanation: "Teachers view Open Day as a tense day when parents bombard them with grievances about their children’s performance.",
+  reference: "It is described that teachers secretly feared Open Day because 'parents came not to praise, but to complain.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what did Mr Guta demand in the MD’s office regarding Mr Fafore?",
+  options: [
+    "A salary increase for Mr Fafore",
+    "The immediate dismissal of Mr Fafore",
+    "A change in his son’s class teacher",
+    "A public apology from Mr Fafore"
+  ],
+  answer: "The immediate dismissal of Mr Fafore",
+  explanation: "Mr Guta angrily requested that Mr Fafore be sacked after discovering an error in his child’s notebook.",
+  reference: "Mr Guta stormed the MD’s office, insisting that the teacher be 'dismissed without delay for incompetence.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why does the school no longer allow students to copy notes from the Class Prefect?",
+  options: [
+    "It disrupts classroom management",
+    "A parent sued the school for this practice",
+    "The students often make errors when copying notes",
+    "The teachers believe it wastes time"
+  ],
+  answer: "A parent sued the school for this practice",
+  explanation: "Following a parent’s legal action over copied notes, the MD banned the practice to protect the school’s reputation.",
+  reference: "The narration mentions that the policy was abolished after a parent took legal steps over a copied note issue."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what reason did Mr Guta give for being angry with Mr Fafore?",
+  options: [
+    "He found a grammatical error in his son’s note",
+    "He felt Mr Fafore was not teaching effectively",
+    "He was unhappy with Mr Fafore’s attitude",
+    "His son complained about being treated unfairly"
+  ],
+  answer: "He found a grammatical error in his son’s note",
+  explanation: "Mr Guta was furious when he spotted a grammar mistake in his son’s notebook and blamed Mr Fafore for negligence.",
+  reference: "The story states that his anger was triggered by a grammatical error which he attributed to poor teaching."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what grammatical rule was the source of disagreement between the MD and the principal?",
+  options: [
+    "The use of the subjunctive mood",
+    "The use of conjunctions such as 'and'",
+    "The subject-verb agreement with phrases like 'as well as'",
+    "The proper placement of modifiers"
+  ],
+  answer: "The subject-verb agreement with phrases like 'as well as'",
+  explanation: "The MD and the principal disagreed over the correct verb usage in sentences containing 'as well as.'",
+  reference: "Their discussion became heated when they differed on how 'as well as' affects subject-verb agreement."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what did Mr Audu do after the MD felt deflated that she had wrongly sacked Mr Fafore?",
+  options: [
+    "He defended Mr Fafore’s teaching methods",
+    "He proposed new rules for grammar checks",
+    "He suggested a training session for the staff",
+    "He cracked a joke to lighten the mood"
+  ],
+  answer: "He cracked a joke to lighten the mood",
+  explanation: "Mr Audu diffused the tension in the office by making a light-hearted joke to cheer up the MD.",
+  reference: "Seeing her mood drop, Mr Audu humorously remarked, causing everyone in the room to laugh."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what conclusion did the teachers draw from Mr Fafore’s sack incident?",
+  options: [
+    "Open Day is a stressful event",
+    "There is no job security in the establishment",
+    "Parents should not interfere with teaching methods",
+    "The MD is always fair in her decisions"
+  ],
+  answer: "There is no job security in the establishment",
+  explanation: "The staff realized that even a minor complaint could cost someone their job, proving how unstable their positions were.",
+  reference: "After Fafore’s dismissal, whispers spread that 'nobody’s job is safe in Stardom.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why did Bepo leave Beesway Group of School?",
+  options: [
+    "He was accused of sharing confidential information with the parents",
+    "He was dissatisfied with the grammatical error in the school’s name",
+    "He witnessed an event that he considered ungodly",
+    "He disagreed with the director about his salary"
+  ],
+  answer: "He witnessed an event that he considered ungodly",
+  explanation: "Bepo left the school after seeing immoral practices that clashed with his Christian beliefs.",
+  reference: "The narration explains that his conscience couldn’t allow him to remain in a place he saw as spiritually defiled."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what grammatical issue did Bepo raise about Beesway Group of School’s name?",
+  options: [
+    "The spelling of 'Beesway'",
+    "The use of singular instead of plural in 'Group of School'",
+    "The absence of a hyphen in the name",
+    "The misuse of capital letters in the name"
+  ],
+  answer: "The use of singular instead of plural in 'Group of School'",
+  explanation: "Bepo pointed out that it should be 'Group of Schools' since the name refers to more than one institution.",
+  reference: "He humorously corrected them, saying the proper expression is 'Group of Schools, not Group of School.'"
+},{
+  question: "From the novel *The Lekki Headmaster*, why did the director of 'Beesway Group of School' claim the ritual involving the cow was necessary?",
+  options: [
+    "To pray for his late father who gave him the land",
+    "To bring in more pupils to the school",
+    "To appease the parents who had raised complaints",
+    "To conduct a purification ceremony for the school"
+  ],
+  answer: "To bring in more pupils to the school",
+  explanation: "The director claimed that the sacrifice would spiritually attract more pupils and bring prosperity to the school.",
+  reference: "Bepo recalled the director insisting that the ritual with the cow would 'open doors for more enrolments.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what led to the closure of the school Bepo started?",
+  options: [
+    "Poor road conditions in the neighbourhood",
+    "Parents' dissatisfaction with the curriculum",
+    "A failed spiritual ritual to attract more pupils",
+    "Mismanagement of school funds"
+  ],
+  answer: "A failed spiritual ritual to attract more pupils",
+  explanation: "Bepo refused to perform the spiritual rites required by the local community, leading to a lack of enrolment and eventual closure.",
+  reference: "The novel explains that his school failed because he rejected 'ritual practices that locals saw as essential for growth.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was the cost of the form for the position of Head Boy or Head Girl in the school election at Stardom?",
+  options: ["₦25,000", "₦40,000", "₦50,000", "₦60,000"],
+  answer: "₦50,000",
+  explanation: "Each candidate for the student leadership position had to purchase a ₦50,000 nomination form.",
+  reference: "It is stated that the form for Head Boy or Head Girl cost ₦50,000, sparking debates about fairness among students."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what inappropriate remark did Banky make during Speech Day?",
+  options: [
+    "Tosh was unqualified for the position",
+    "Tosh was the son of an ex-convict",
+    "Tosh bribed his way into the election",
+    "Tosh lacked the required skill for the role"
+  ],
+  answer: "Tosh was the son of an ex-convict",
+  explanation: "Banky embarrassed Tosh by publicly calling him 'the son of an ex-convict' during Speech Day.",
+  reference: "The statement caused a stir during the event, making the MD intervene to maintain decorum."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why was Tosh’s father, Chief Ogba, detained for 36 months?",
+  options: [
+    "He was an ex-convict for theft",
+    "He failed to pay a school debt",
+    "He was accused of fraud but acquitted later",
+    "He faced trial for alleged misappropriation"
+  ],
+  answer: "He was accused of fraud but acquitted later",
+  explanation: "Chief Ogba was wrongly accused of fraud and detained for three years before being cleared of all charges.",
+  reference: "The narrative mentions that Tosh’s father spent 36 months in detention on false fraud accusations."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, which of the following waterfalls is the highest in West Africa, according to the novel?",
+  options: [
+    "Gurara Falls",
+    "Erin Ijesha Waterfalls",
+    "Ikogosi Warm Springs",
+    "Owu Waterfalls"
+  ],
+  answer: "Owu Waterfalls",
+  explanation: "The novel notes that Owu Waterfalls, located in Kwara State, is regarded as the highest in West Africa.",
+  reference: "During an excursion discussion, Bepo informed the students that Owu Waterfalls is the highest in West Africa."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is the primary reason Mr Bepo organises excursions for the students at Stardom?",
+  options: [
+    "To give them a good grasp of their country before they all go abroad",
+    "To promote Stardom as a school that values excursions",
+    "To prepare students for geography exams",
+    "To encourage tourism in Nigeria"
+  ],
+  answer: "To give them a good grasp of their country before they all go abroad",
+  explanation: "Bepo wanted his students to know Nigeria’s cultural and historical landmarks before pursuing studies overseas.",
+  reference: "He told the students that 'a person who knows his country well will value the world even more.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, which of the following festivals have the students attended?",
+  options: [
+    "i, ii, iii only",
+    "i and iv only",
+    "ii and iii only",
+    "i, ii, iii, iv"
+  ],
+  answer: "i, ii, iii, iv",
+  explanation: "The students visited and experienced all four festivals — Calabar Carnival, Osun Oshogbo, Argungu, and Abuja Carnival.",
+  reference: "The novel lists these cultural trips as part of Stardom’s commitment to cultural education."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, how did Mr Bepo inspire students after they visited areas like Mushin and Ajegunle during their excursions?",
+  options: [
+    "By promising to relocate them to better areas",
+    "By sharing stories of successful individuals who rose from slums",
+    "By discouraging them from visiting such areas again",
+    "By giving them motivational books about success"
+  ],
+  answer: "By sharing stories of successful individuals who rose from slums",
+  explanation: "Bepo used real-life examples of people who came from poor backgrounds and became successful to motivate his students.",
+  reference: "After visiting the slum areas, he reminded them that 'greatness is not about where you start, but how you finish.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was the source of the name 'Badagry', according to the novel?",
+  options: [
+    "It was named after the Badagry River",
+    "It was derived from 'agbadarigi'",
+    "It originated from a European explorer’s name",
+    "It was named after a nearby slave market"
+  ],
+  answer: "It was derived from 'agbadarigi'",
+  explanation: "The name 'Badagry' was derived from 'agbadarigi,' the name of a local farmstead that early settlers pronounced differently.",
+  reference: "The teacher explained that 'Badagry' came from 'Agbadarigi,' showing how names evolve through pronunciation over time."
+},{
+  question: "From the novel *The Lekki Headmaster*, what does Mr Bepo mean by the term 'new slavery'?",
+  options: [
+    "Africans willingly move abroad for better opportunities",
+    "The continuation of slave trade in some regions",
+    "The exploitation of Africans by modern companies",
+    "Africans selling themselves into physical labour"
+  ],
+  answer: "Africans willingly move abroad for better opportunities",
+  explanation: "Bepo uses 'new slavery' to describe how many Africans now willingly travel abroad for work and education, often under harsh conditions.",
+  reference: "He notes that 'our people now sell themselves to stress in foreign lands just to survive — that is the new slavery.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why was Mr Bepo moved during his visit to the Black Heritage Museum?",
+  options: [
+    "He felt nostalgic about Nigeria’s history",
+    "He was impressed by the museum’s architecture",
+    "He empathised with the suffering of slaves in the past",
+    "He remembered his ancestors were involved in slavery"
+  ],
+  answer: "He empathised with the suffering of slaves in the past",
+  explanation: "The sight of shackles, chains, and relics deeply touched Bepo as he imagined the pain endured by enslaved Africans.",
+  reference: "He became emotional while viewing the exhibits showing the cruelty of the slave trade era."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is the meaning of the term 'japa' as used in the novel?",
+  options: [
+    "The struggle for financial independence",
+    "To travel abroad in search of better opportunities",
+    "To resist colonial influences in modern times",
+    "To work as a slave in a foreign country"
+  ],
+  answer: "To travel abroad in search of better opportunities",
+  explanation: "In the context of the story, 'japa' refers to Nigerians migrating to other countries for greener pastures.",
+  reference: "The term was used by students during discussions on relocation, meaning 'to escape Nigeria for a better life abroad.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why was Mr Bepo initially reluctant to renew his passport?",
+  options: [
+    "He had lost his passport",
+    "He was too busy with his teaching duties",
+    "He had heard about the hassles applicants were facing",
+    "He did not plan to travel abroad anytime soon"
+  ],
+  answer: "He had heard about the hassles applicants were facing",
+  explanation: "Mr Bepo delayed his passport renewal because he had heard about the long queues and corrupt practices at passport offices.",
+  reference: "He hesitated after hearing that people spent weeks struggling to renew their passports."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, how much was the official fee for a 10-year passport renewal (64 pages)?",
+  options: ["₦250,000", "₦100,000", "₦1,000,000", "₦70,000"],
+  answer: "₦100,000",
+  explanation: "The official charge for a 10-year, 64-page Nigerian passport renewal was ₦100,000 according to the narrative.",
+  reference: "Bepo confirmed that the new passport he applied for cost ₦100,000."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why did Bepo choose Ibadan for his passport renewal?",
+  options: [
+    "It was closer to his location",
+    "He was advised that the process would be easier there",
+    "He had a friend who worked in immigration there",
+    "The fees were lower in Ibadan"
+  ],
+  answer: "He was advised that the process would be easier there",
+  explanation: "Bepo travelled to Ibadan because he was told that passport renewal there was faster and less stressful.",
+  reference: "He journeyed to Ibadan on the advice that the officers there worked more efficiently."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what can be inferred about Tai’s role in the passport renewal process?",
+  options: [
+    "He is a middleman exploiting applicants",
+    "He was a legitimate immigration officer",
+    "He was an honest businessman offering his services",
+    "He was unaware of the actual renewal process"
+  ],
+  answer: "He is a middleman exploiting applicants",
+  explanation: "Tai presented himself as a helper but was actually a go-between who collected bribes from applicants to fast-track their processing.",
+  reference: "Tai turned out to be a middleman working with corrupt officers to make money off desperate applicants."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what does the phrase 'in cahoots' most likely mean in the context of Tai and the immigration staff?",
+  options: [
+    "In conflict with",
+    "Secretly collaborating with",
+    "Officially associated with",
+    "Unknowingly assisting"
+  ],
+  answer: "Secretly collaborating with",
+  explanation: "The expression means that Tai and some immigration staff were secretly working together to exploit applicants.",
+  reference: "The narrative explains that Tai was 'in cahoots' with the officers, implying secret cooperation."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why does Mr Bepo delay his flight to the UK?",
+  options: [
+    "The airline cancels his flight",
+    "He is required to attend a farewell celebration",
+    "He needs to finalise his resignation paperwork",
+    "He has a last-minute meeting with the MD"
+  ],
+  answer: "He is required to attend a farewell celebration",
+  explanation: "Bepo postponed his trip because the school staff organised a farewell event in his honour.",
+  reference: "He stayed back to attend the farewell ceremony held by his colleagues before leaving Nigeria."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what Yoruba adage does Mr Bepo recall after the debate at the farewell celebration?",
+  options: [
+    "A wise man never leaves his work unfinished",
+    "The work of a teacher outlives their time",
+    "Success is not final; failure is not fatal",
+    "Even if the master carver retires, his carvings remain"
+  ],
+  answer: "Even if the master carver retires, his carvings remain",
+  explanation: "Bepo reflects on this Yoruba proverb, meaning that a person’s legacy endures long after they are gone.",
+  reference: "He remembered the Yoruba saying: 'Even if the master carver retires, his carvings remain,' symbolising lasting impact."
+},{
+  question: "From the novel *The Lekki Headmaster*, why does Mr Bepo yell 'Noooo!' during the drama club performance at the farewell celebration?",
+  options: [
+    "He was disappointed with the dance",
+    "He is overwhelmed by memories of the Heritage Slave Museum",
+    "He feels the performance is disrespectful",
+    "He disagrees with the students' portrayal of history"
+  ],
+  answer: "He is overwhelmed by memories of the Heritage Slave Museum",
+  explanation: "Mr Bepo’s cry of 'Noooo!' was an emotional outburst triggered by the students’ reenactment of scenes that reminded him of the suffering of slaves he had seen at the museum.",
+  reference: "The performance mirrored the painful images he saw at the Heritage Museum, bringing him to tears during the farewell event."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was the farewell gift presented to Mr Bepo?",
+  options: [
+    "A framed picture of the staff and students",
+    "A plaque commemorating his years of service",
+    "A cheque for $10,000",
+    "A plane ticket to his new destination"
+  ],
+  answer: "A plaque commemorating his years of service",
+  explanation: "In appreciation of his dedication, the school presented Mr Bepo with a commemorative plaque recognizing his years of leadership.",
+  reference: "During the farewell celebration, he was honoured with a plaque as a symbol of gratitude for his service."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, at what time is Mr Bepo’s flight to the UK scheduled to depart?",
+  options: ["5:00 pm", "10:00 pm", "1:00 pm", "8:00 pm"],
+  answer: "10:00 pm",
+  explanation: "Mr Bepo’s flight was scheduled for 10:00 p.m., allowing him to attend his farewell ceremony before heading to the airport.",
+  reference: "He was reminded several times during the event that his flight was fixed for 10 p.m."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, who offers to drive Mr Bepo to the airport?",
+  options: [
+    "Mrs Grace Apeh",
+    "Mr Oyelana",
+    "Mr Ogunwale",
+    "The Stardom accountant"
+  ],
+  answer: "Mr Oyelana",
+  explanation: "Mr Oyelana, one of the senior teachers, volunteered to drive Mr Bepo to the airport after the farewell event.",
+  reference: "At the close of the ceremony, Mr Oyelana offered to take him to the airport safely."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what did Mr Bepo’s wife insist he should pack for his trip to the UK?",
+  options: [
+    "Locust beans, egusi, ground crayfish and dry snail",
+    "New clothes and electronics",
+    "Fruits and water",
+    "His passport and essential documents"
+  ],
+  answer: "Locust beans, egusi, ground crayfish and dry snail",
+  explanation: "His wife made sure he packed traditional Nigerian food ingredients to remind him of home while abroad.",
+  reference: "She insisted he take items like locust beans, egusi, crayfish and dry snail along to the UK."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is the primary setting of the story?",
+  options: [
+    "Beesway Group of School",
+    "Stardom Schools",
+    "The Black Heritage Museum, Badagry",
+    "Mushin, Lagos"
+  ],
+  answer: "Stardom Schools",
+  explanation: "Most of the novel’s events occur in and around Stardom Schools, where Mr Bepo serves as principal.",
+  reference: "The narrative largely unfolds in Stardom Schools, the central environment of Mr Bepo’s career."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, who is the protagonist of the novel?",
+  options: [
+    "Mr Alabi",
+    "Mrs Grace Apeh",
+    "Mrs Ibidun Gloss",
+    "Mr Adewale Adebepo"
+  ],
+  answer: "Mr Adewale Adebepo",
+  explanation: "Mr Adewale Adebepo, also known as 'The Lekki Headmaster,' is the main character and moral center of the story.",
+  reference: "He is consistently referred to by both colleagues and students as 'The Lekki Headmaster.'"
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is Mr Bepo’s profession?",
+  options: [
+    "A doctor",
+    "A principal",
+    "A businessman",
+    "A historian"
+  ],
+  answer: "A principal",
+  explanation: "Mr Bepo is the head of Stardom Schools, serving as the school’s principal and moral guide.",
+  reference: "The story introduces him as the principal known for discipline and integrity."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is the main challenge that Mr Bepo faces in the novel?",
+  options: [
+    "Convincing parents to enrol their children",
+    "Managing the school’s finances",
+    "Balancing his career with pressure to migrate",
+    "Starting his own school"
+  ],
+  answer: "Balancing his career with pressure to migrate",
+  explanation: "Mr Bepo struggles to reconcile his loyalty to his job in Nigeria with societal and family pressure to relocate abroad.",
+  reference: "Throughout the novel, he weighs the idea of relocation against his sense of duty and purpose at home."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what theme is predominantly explored?",
+  options: [
+    "Betrayal",
+    "Political corruption",
+    "Love and relationships",
+    "Migration and identity"
+  ],
+  answer: "Migration and identity",
+  explanation: "The central theme explores how Nigerians pursue opportunities abroad while grappling with national identity and purpose.",
+  reference: "The novel repeatedly highlights the emotional and cultural tension between staying home and relocating abroad."
 }
 ];
 
