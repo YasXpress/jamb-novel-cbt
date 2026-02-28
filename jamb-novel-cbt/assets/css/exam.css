@@ -1,0 +1,103 @@
+/* ================================
+   exam.css - JAMB Novel CBT Style
+   ================================ */
+
+.exam-container {
+  max-width: 700px;
+  background: var(--white);
+  margin: 30px auto;
+  border-radius: 15px;
+  padding: 25px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.1);
+}
+
+.progress-bar {
+  width: 100%;
+  background: #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  height: 12px;
+  margin-bottom: 20px;
+}
+
+#progress-fill {
+  background: var(--main-green);
+  height: 100%;
+  width: 0%;
+  transition: width 0.4s ease;
+}
+
+.question-box h2 {
+  color: var(--dark-green);
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+#question-text {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.option-btn {
+  background: var(--light-green);
+  border: 2px solid var(--main-green);
+  border-radius: 8px;
+  padding: 12px 15px;
+  font-size: 1rem;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.25s ease;
+}
+
+.option-btn:hover {
+  background: var(--main-green);
+  color: var(--white);
+}
+
+.option-btn.selected {
+  background: var(--main-green);
+  color: var(--white);
+}
+
+.exam-controls {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 25px;
+}
+
+.nav-btn, .submit-btn {
+  background: var(--main-green);
+  color: var(--white);
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.nav-btn:hover, .submit-btn:hover {
+  background: var(--dark-green);
+}
+
+#prev-btn[disabled] {
+  background: #ccc;
+  cursor: not-allowed;
+}
+
+.submit-btn {
+  background: #ffcc00;
+  color: #000;
+  font-weight: 600;
+}
+
+.submit-btn:hover {
+  background: #ffb700;
+}

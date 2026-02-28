@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JAMB Novel Test | CBT Mode</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/exam.css">
+</head>
+<body>
+
+  <header class="header">
+    <img src="assets/images/logo.png" alt="Logo" class="logo">
+    <h1>JAMB Novel CBT Practice</h1>
+  </header>
+
+  <main class="exam-container">
+    
+    <!-- Progress bar -->
+    <div class="progress-bar">
+      <div id="progress-fill"></div>
+    </div>
+
+    <!-- Question area -->
+    <div class="question-box">
+      <h2 id="question-number">Question 1 of 20</h2>
+      <p id="question-text">Loading question...</p>
+
+      <div class="options" id="options-container">
+        <!-- options will be added here dynamically -->
+      </div>
+    </div>
+
+    <!-- Navigation buttons -->
+    <div class="exam-controls">
+      <button id="prev-btn" class="nav-btn" disabled>Previous</button>
+      <button id="next-btn" class="nav-btn">Next</button>
+      <button id="submit-btn" class="submit-btn" style="display:none;">Submit Test</button>
+    </div>
+
+  </main>
+
+  <footer>
+    <p>© 2026 JAMB Novel CBT App | Practice Smart</p>
+  </footer>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/exam.js"></script>
+</body>
+</html>

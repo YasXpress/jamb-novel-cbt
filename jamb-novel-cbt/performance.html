@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Performance | JAMB Novel CBT</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    /* ----------- Performance Page Styling ----------- */
+    .performance-container {
+      max-width: 700px;
+      margin: 30px auto;
+      background: var(--white);
+      padding: 25px;
+      border-radius: 15px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+    }
+
+    .performance-container h2 {
+      color: var(--dark-green);
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .cards {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .score-card {
+      background: var(--light-green);
+      border-left: 6px solid var(--main-green);
+      border-radius: 10px;
+      padding: 15px 20px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      animation: slideIn 0.5s ease forwards;
+    }
+
+    .score-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+
+    @keyframes slideIn {
+      from {opacity: 0; transform: translateY(10px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+
+    .score-card h3 {
+      color: var(--dark-green);
+      font-size: 1.2rem;
+    }
+
+    .score-card p {
+      color: #444;
+      margin: 5px 0;
+      font-size: 0.95rem;
+    }
+
+    .grade {
+      font-size: 1.4rem;
+      font-weight: 700;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 6px;
+      display: inline-block;
+    }
+
+    .grade.A { background: #00b894; }
+    .grade.B { background: #55efc4; color: #111; }
+    .grade.C { background: #fdcb6e; color: #111; }
+    .grade.F { background: #d63031; }
+
+    .empty {
+      text-align: center;
+      color: #777;
+      margin-top: 30px;
+      font-style: italic;
+    }
+
+    .clear-btn {
+      display: block;
+      margin: 25px auto;
+      background: #ff5757;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 10px 18px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .clear-btn:hover {
+      background: #d63031;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="header">
+    <img src="assets/images/logo.png" alt="Logo" class="logo">
+    <h1>My Performance</h1>
+  </header>
+
+  <main class="performance-container">
+    <h2>Past Exam Results</h2>
+    <div id="performanceList" class="cards"></div>
+    <button class="clear-btn" id="clearBtn">Clear All Records</button>
+    
+    <button class="back-btn" onclick="window.location.href='index.html'">Back to Home</button>
+    
+  </main>
+
+
+
+  <footer>
+    <p>© 2026 JAMB Novel CBT App | Track Your Progress</p>
+  </footer>
+
+  <script src="assets/js/performance.js"></script>
+</body>
+</html>

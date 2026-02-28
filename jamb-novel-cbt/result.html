@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test Results | JAMB Novel CBT</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    .result-container {
+      max-width: 800px;
+      background: var(--white);
+      margin: 25px auto;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+    }
+    .score-box {
+      text-align: center;
+      background: var(--light-green);
+      border: 2px solid var(--main-green);
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 25px;
+    }
+    .score-box h2 {
+      color: var(--dark-green);
+    }
+    .question-review {
+      margin-bottom: 20px;
+      padding: 10px 15px;
+      border-left: 4px solid var(--main-green);
+      background: #f8fff9;
+      border-radius: 8px;
+    }
+    .correct {
+      color: green;
+      font-weight: 600;
+    }
+    .wrong {
+      color: red;
+      font-weight: 600;
+    }
+    .explanation {
+      font-size: 0.95rem;
+      color: #555;
+      margin-top: 5px;
+    }
+    .back-btn {
+      display: block;
+      margin: 25px auto;
+      background: var(--main-green);
+      color: white;
+      border: none;
+      border-radius: 6px;
+      padding: 10px 18px;
+      font-size: 1rem;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .back-btn:hover {
+      background: var(--dark-green);
+    }
+    
+    
+    
+    
+    
+    /* Premium Ad Box */
+.premium-ad {
+  background: var(--light-green);
+  border: 2px solid var(--main-green);
+  border-radius: 12px;
+  padding: 20px;
+  margin-top: 30px;
+  text-align: center;
+  animation: fadeIn 0.6s ease;
+}
+
+.premium-ad h3 {
+  color: var(--dark-green);
+  font-size: 1.3rem;
+  margin-bottom: 10px;
+}
+
+.premium-ad p {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.premium-ad button {
+  background: #ffcc00;
+  color: #000;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.premium-ad button:hover {
+  background: #ffb700;
+}
+
+/* Reference line style */
+.reference {
+  font-size: 0.9rem;
+  color: #2b593f;
+  background: #f1fff5;
+  border-left: 3px solid var(--main-green);
+  padding: 6px 10px;
+  border-radius: 6px;
+  margin-top: 5px;
+}
+
+.question-review p strong {
+  color: var(--dark-green);
+}
+.question-review {
+  margin-bottom: 18px;
+  padding: 10px;
+  border-radius: 8px;
+  background: #f8fff9;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+  </style>
+</head>
+<body>
+
+  <header class="header">
+    <img src="assets/images/logo.png" alt="Logo" class="logo">
+    <h1>Test Result</h1>
+  </header>
+
+  <main class="result-container">
+  <div id="result-content">Loading results...</div>
+
+  <!-- 🔹 Premium Ad Section (for free users) -->
+  <div id="premium-ad" class="premium-ad" style="display:none;">
+    <h3>Unlock Full Access 🚀</h3>
+    <p>Upgrade now to access <strong>all 154 JAMB Novel questions</strong> and boost your performance!</p>
+    <button onclick="window.location.href='upgrade.html'">Upgrade for ₦200</button>
+  </div>
+
+  <button class="back-btn" onclick="window.location.href='index.html'">Back to Home</button>
+</main>
+
+  <footer>
+    <p>© 2026 JAMB Novel CBT App | Review & Learn</p>
+  </footer>
+
+  <script>
+    const resultData = JSON.parse(localStorage.getItem("lastExamResult"));
+    const resultBox = document.getElementById("result-content");
+
+    if (!resultData) {
+      resultBox.innerHTML = "<p>No result found.</p>";
+    } else {
+      const percent = ((resultData.score / resultData.total) * 100).toFixed(1);
+      let html = `
+        <div class="score-box">
+          <h2>Your Score: ${resultData.score}/${resultData.total}</h2>
+          <p>Percentage: ${percent}%</p>
+          <p>Date: ${resultData.date}</p>
+        </div>
+      `;
+
+      resultData.results.forEach((res, i) => {
+  html += `
+    <div class="question-review">
+      <p><strong>Q${i + 1}:</strong> ${res.question}</p>
+      <p>Your Answer: <span class="${res.correct ? 'correct' : 'wrong'}">${res.userAnswer}</span></p>
+      <p>Correct Answer: <span class="correct">${res.correctAnswer}</span></p>
+      <p><strong>Explanation:</strong> ${res.explanation}</p>
+      ${res.reference ? `<p><strong>Reference:</strong> ${res.reference}</p>` : ""}
+    </div>
+  `;
+});
+
+      resultBox.innerHTML = html;
+    }
+    
+    
+    
+    
+    
+    
+    
+    // Show Premium Ad if user is free
+const isPremium = localStorage.getItem("isPremium") === "true";
+if (!isPremium) {
+  document.getElementById("premium-ad").style.display = "block";
+}
+    
+  </script>
+</body>
+</html>
