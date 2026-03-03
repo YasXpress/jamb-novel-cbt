@@ -941,6 +941,455 @@ const jambNovelQuestions = [
   answer: "Migration and identity",
   explanation: "The central theme explores how Nigerians pursue opportunities abroad while grappling with national identity and purpose.",
   reference: "The novel repeatedly highlights the emotional and cultural tension between staying home and relocating abroad."
+},{
+  question: "From the novel *The Lekki Headmaster*, which teacher is known for the use of witty remarks in the novel?",
+  options: [
+    "Mrs Ibidun Gloss",
+    "Mrs Grace Apeh",
+    "Mr Audu",
+    "Mr Amos"
+  ],
+  answer: "Mr Audu",
+  explanation: "Mr Audu is portrayed as humorous and quick-witted, often lightening serious situations with clever comments.",
+  reference: "He is described as the teacher whose witty remarks frequently brought laughter to tense meetings."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, which two students have a rivalry that dates back to JSS 3?",
+  options: [
+    "Banky and Tosh",
+    "Seri and Kemi",
+    "Ogba and Banky",
+    "Ogba and Tosh"
+  ],
+  answer: "Banky and Tosh",
+  explanation: "Banky and Tosh’s rivalry started in JSS 3 and continued into their senior years, often flaring up during competitions.",
+  reference: "Their long-standing rivalry became a central highlight during the prefect election scene."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, the novel explores the effects of migration under which term?",
+  options: [
+    "Brain Drain",
+    "Japa Syndrome",
+    "Wanderlust",
+    "Exodus"
+  ],
+  answer: "Japa Syndrome",
+  explanation: "The narrative uses the popular Nigerian slang 'Japa Syndrome' to describe mass migration in search of better life abroad.",
+  reference: "Characters repeatedly mention the 'Japa Syndrome' while debating opportunities overseas."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what led to the conflict during the prefect election speech?",
+  options: [
+    "Banky insulted Tosh’s father",
+    "Banky attempted to bribe the judges",
+    "Tosh’s mom accused the school of favouritism",
+    "Bepo intervened in the voting process"
+  ],
+  answer: "Banky insulted Tosh’s father",
+  explanation: "Banky publicly mocked Tosh’s father’s past during the speech, sparking uproar among students and teachers.",
+  reference: "The outburst occurred when Banky called Tosh 'the son of an ex-convict' during his address."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what significant historical location did the students visit in Badagry?",
+  options: [
+    "First Storey Building",
+    "Slave Market",
+    "Point of No Return",
+    "All of the above"
+  ],
+  answer: "All of the above",
+  explanation: "During their Badagry excursion, the students toured all key historical sites — the First Storey Building, the Slave Market, and the Point of No Return.",
+  reference: "Bepo planned the trip so students could see these landmarks that shaped Nigeria’s colonial history."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what tourist attractions in Bauchi did the students explore?",
+  options: [
+    "Ikogosi Warm Springs",
+    "Erin Ijesha Waterfalls",
+    "Arinta Waterfalls",
+    "Yankari Game Reserve"
+  ],
+  answer: "Yankari Game Reserve",
+  explanation: "The Bauchi State excursion featured the Yankari Game Reserve, famous for its wildlife and warm springs.",
+  reference: "Bepo chose Yankari to teach environmental and ecological awareness."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was the major challenge that Bepo faced during his NIN validation?",
+  options: [
+    "Corruption among officials",
+    "Long queues",
+    "Poor networks",
+    "None of the above"
+  ],
+  answer: "Long queues",
+  explanation: "Bepo complained about spending hours in line due to poor organisation and limited staff.",
+  reference: "He described the NIN validation as exhausting, with endless queues under the hot sun."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what performances during the send-off caused Bepo to become deeply emotional?",
+  options: [
+    "The Bata dance",
+    "The Atilogwu dance",
+    "The Canoe dance",
+    "The Koroso dance"
+  ],
+  answer: "The Canoe dance",
+  explanation: "The students’ Canoe dance reminded Bepo of the suffering of slaves transported by sea, evoking tears during the event.",
+  reference: "The Canoe dance sequence mirrored the slave crossings he’d seen at the Heritage Museum."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what year was the Ikogosi Warm Springs discovered?",
+  options: ["1745", "1820", "1852", "1901"],
+  answer: "1852",
+  explanation: "The Ikogosi Warm Springs, known for its meeting point of warm and cold waters, was discovered in 1852.",
+  reference: "During their Ekiti State excursion, Bepo informed students that Ikogosi was first recorded in 1852."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what lesson does the novel teach about migration?",
+  options: [
+    "Migration should always be the last option",
+    "Migration brings mixed blessings and challenges",
+    "Migration guarantees success",
+    "Migration is a betrayal of one’s roots"
+  ],
+  answer: "Migration brings mixed blessings and challenges",
+  explanation: "The story concludes that migration offers opportunities but also emotional and cultural struggles.",
+  reference: "Through Bepo’s reflections, the book emphasises both the gains and pains of seeking life abroad."
+},{
+  question: "From the novel *The Lekki Headmaster*, what was Bepo’s relationship with Mrs Ibidun Gloss?",
+  options: [
+    "She was his supervisor",
+    "She was his rival",
+    "She deeply respected and appreciated his contributions",
+    "She criticised his decisions frequently"
+  ],
+  answer: "She deeply respected and appreciated his contributions",
+  explanation: "Mrs Ibidun Gloss admired Mr Bepo for his dedication and integrity, often describing him as the school’s moral backbone.",
+  reference: "Throughout the story, Mrs Gloss is portrayed as a supportive colleague who values Mr Bepo’s leadership style."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what caused Mr Bepo’s emotional breakdown during the school assembly?",
+  options: [
+    "A student’s rude behaviour",
+    "Financial troubles at the school",
+    "His upcoming relocation to the UK",
+    "A conflict with the MD"
+  ],
+  answer: "His upcoming relocation to the UK",
+  explanation: "Mr Bepo broke down in tears during the assembly as the reality of leaving his students and career finally hit him.",
+  reference: "He wept openly during the Tuesday assembly, overwhelmed by the thought of leaving the school he built with love."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is the boarding fee per session at Stardom Schools?",
+  options: ["₦150,000", "₦165,000", "₦250,000", "₦200,000"],
+  answer: "₦165,000",
+  explanation: "The boarding fee at Stardom Schools was set at ₦165,000 per session before being later reduced.",
+  reference: "The principal announced that boarding students would pay ₦165,000 per session before the adjustment."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why was the boarding fee at Stardom Schools reduced?",
+  options: [
+    "To attract more parents",
+    "To improve facilities",
+    "To meet government regulations",
+    "To reduce student lateness"
+  ],
+  answer: "To attract more parents",
+  explanation: "The management decided to reduce the boarding fee as a strategy to make the school more affordable and appealing to parents.",
+  reference: "The MD agreed to lower the boarding fee to encourage more parents to enrol their children at Stardom."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, the theme central to the novel is",
+  options: [
+    "The corruption in the Nigerian education system",
+    "The struggles of students in private schools",
+    "The decline of traditional Nigerian values",
+    "The challenges of migration and identity"
+  ],
+  answer: "The challenges of migration and identity",
+  explanation: "The story focuses on how Nigerians wrestle with the desire to migrate abroad while maintaining cultural and personal identity.",
+  reference: "The novel uses Bepo’s experience to show the conflict between seeking opportunities abroad and preserving one’s sense of belonging."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, how does *The Lekki Headmaster* portray the issue of 'Japa'?",
+  options: [
+    "As a necessary step for career growth",
+    "As a personal and moral dilemma",
+    "As a privilege for the wealthy",
+    "As an easy decision for most Nigerians"
+  ],
+  answer: "As a personal and moral dilemma",
+  explanation: "The book portrays 'Japa' not just as a migration trend but as an inner struggle between ambition and patriotism.",
+  reference: "Bepo’s indecision reflects the emotional tension many Nigerians feel when considering migration."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is the central physical setting of the novel?",
+  options: [
+    "Beesway Group of School",
+    "Black Heritage Museum, Badagry",
+    "Stardom Schools, Lagos",
+    "Murtala Muhammed Airport, Lagos"
+  ],
+  answer: "Stardom Schools, Lagos",
+  explanation: "Most of the novel’s scenes take place within Stardom Schools in Lagos, where Mr Bepo serves as principal.",
+  reference: "The story’s central events revolve around Stardom Schools and its staff and students."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, which setting in the novel serves as a point of psychological conflict for Bepo?",
+  options: [
+    "The school assembly hall",
+    "Black Heritage Museum, Badagry",
+    "The Vice Principal’s office",
+    "His home in Ikeja"
+  ],
+  answer: "Black Heritage Museum, Badagry",
+  explanation: "The museum visit triggers deep emotional conflict in Bepo as he confronts the legacy of slavery and the concept of modern migration.",
+  reference: "Standing before the exhibits, Bepo felt a haunting connection between the old slave trade and today’s migration struggles."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what narrative technique is commonly used in *The Lekki Headmaster*?",
+  options: [
+    "Flashback",
+    "Myth",
+    "Foreshadowing",
+    "First-person narration"
+  ],
+  answer: "Flashback",
+  explanation: "The story frequently uses flashbacks to reveal Mr Bepo’s past experiences and career journey.",
+  reference: "The narrative often shifts back in time to show how earlier choices shaped Bepo’s present decisions."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was Mr Bepo’s long-term professional goal before considering migration?",
+  options: [
+    "Becoming the MD of Stardom Schools",
+    "Starting his own school",
+    "Writing a book on educational reform",
+    "Retiring early and moving to his hometown"
+  ],
+  answer: "Starting his own school",
+  explanation: "Before contemplating relocation, Mr Bepo dreamed of establishing his own school that would reflect his educational ideals.",
+  reference: "He once shared his vision of founding a school that balanced discipline, morality, and academic excellence."
+},{
+  question: "From the novel *The Lekki Headmaster*, what does Chief Ogba demand after his son, Tosh, is publicly insulted?",
+  options: [
+    "A formal apology and publication in the school magazine",
+    "The immediate suspension of the student who insulted his son",
+    "Financial compensation from the school",
+    "Immediate expulsion of the guilty student"
+  ],
+  answer: "A formal apology and publication in the school magazine",
+  explanation: "Chief Ogba demanded that the school issue a formal apology to his son and publish it in the school magazine to clear their family’s name.",
+  reference: "After the incident, Chief Ogba requested a formal apology to restore his family’s dignity."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, how does the novel use irony to critique migration?",
+  options: [
+    "It shows how people regret leaving Nigeria.",
+    "It portrays Nigerian schools as superior to foreign institutions.",
+    "It contrasts the excitement of moving abroad with the struggles people face when they get there.",
+    "It portrays that migration is always a failure."
+  ],
+  answer: "It contrasts the excitement of moving abroad with the struggles people face when they get there.",
+  explanation: "The novel uses irony by showing how the dream of a better life abroad often turns into disappointment and struggle.",
+  reference: "Bepo’s reflections reveal that migration isn’t always the success story it appears to be."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why does the MD call an emergency meeting after discovering the cars at the school's land?",
+  options: [
+    "She believes they are using stolen school funds.",
+    "She wants to commend them for financial growth.",
+    "She plans to reduce the teachers' salaries.",
+    "She is concerned about the teachers becoming financially independent"
+  ],
+  answer: "She is concerned about the teachers becoming financially independent",
+  explanation: "The MD called a meeting because she feared that staff gaining financial independence could make them less committed to their jobs.",
+  reference: "She questioned how teachers could afford cars and worried about the cooperative funds used to buy them."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, who makes up the board of Stardom Schools?",
+  options: [
+    "Independent education experts",
+    "A mix of educators and business investors",
+    "The MD's family members",
+    "Parents and essential stakeholders"
+  ],
+  answer: "A mix of educators and business investors",
+  explanation: "The school board comprises both education professionals and business investors who guide the school’s policies.",
+  reference: "The novel describes the board as a group of educationists and investors focused on Stardom’s success."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what did Bepo do before meeting with the director of Beesway the morning after he encountered the ritual practice?",
+  options: [
+    "He informed the police about the ritual activities",
+    "He prayed for protection",
+    "He moved his belongings out of the school",
+    "He wrote a resignation letter"
+  ],
+  answer: "He prayed for protection",
+  explanation: "After witnessing the ritual, Bepo prayed for divine protection before confronting the director the following morning.",
+  reference: "He spent the night praying before deciding to meet the director of Beesway about what he saw."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, which poem came to Bepo’s mind on his way to renew his passport?",
+  options: [
+    "Ibadan by J.P. Clark",
+    "Night Rain by J.P. Clark",
+    "Abiku by Wole Soyinka",
+    "Vanity by Birago Diop"
+  ],
+  answer: "Vanity by Birago Diop",
+  explanation: "Bepo recalled the poem *Vanity* by Birago Diop as he reflected on life’s futility and the search for meaning during his journey.",
+  reference: "The poem 'Vanity' came to his mind as he pondered over Africa’s struggles and personal ambition."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was Mr Fafore’s strategy to ensure that he came early to school even though he lives far away?",
+  options: [
+    "He slept in his car overnight",
+    "He woke up very early",
+    "He rented an apartment near the school",
+    "He set multiple alarms on his phone"
+  ],
+  answer: "He woke up very early",
+  explanation: "Mr Fafore managed his long distance by waking up extremely early every morning to beat Lagos traffic.",
+  reference: "He said he left home before dawn each day to make it to school before assembly time."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why did Bepo choose to renew his passport in Ibadan?",
+  options: [
+    "It was more expensive to renew it in Lagos",
+    "He wanted to avoid the long queues in Lagos",
+    "He had family in Ibadan",
+    "He was transferred to the office in Ibadan"
+  ],
+  answer: "He wanted to avoid the long queues in Lagos",
+  explanation: "Bepo heard that the Ibadan office was more efficient, with shorter queues than Lagos.",
+  reference: "He travelled to Ibadan after hearing that passport processing was faster there."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, why did Stardom School stop the usual democratic election process for prefects?",
+  options: [
+    "Some students were engaging in negative campaigning",
+    "The school wanted teachers to appoint the prefects instead",
+    "The Ministry of Education mandated a new selection process",
+    "Parents demanded to be involved in selecting the prefects"
+  ],
+  answer: "Some students were engaging in negative campaigning",
+  explanation: "The management suspended open elections after noticing unhealthy rivalry and smear tactics among students.",
+  reference: "The MD announced that the practice would stop due to the rise of bad politics among the students."
+},{
+  question: "From the novel *The Lekki Headmaster*, why did Bepo spend the electricity tariff money he collected from his tenants?",
+  options: [
+    "He was out of a job and had no savings.",
+    "He needed to pay for his child's school fees",
+    "He used it for urgent medical expenses",
+    "He mistakenly misplaced the money"
+  ],
+  answer: "He was out of a job and had no savings.",
+  explanation: "Bepo used the collected electricity money to meet personal needs when he temporarily lost his job and had no savings to fall back on.",
+  reference: "He confessed that hardship led him to spend the compound’s electricity contribution, promising to repay later."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, the following were hairstyles that Mrs Ignatius learnt in preparation for her migration abroad except",
+  options: [
+    "Agbadarigi",
+    "Kojusoko",
+    "Onilegogoro",
+    "Suku"
+  ],
+  answer: "Agbadarigi",
+  explanation: "‘Agbadarigi’ was not one of the hairstyles Mrs Ignatius learnt; it was mentioned elsewhere in the novel as the origin of 'Badagry'.",
+  reference: "The novel lists Kojusoko, Onilegogoro, and Suku among the styles Mrs Ignatius mastered before traveling abroad."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what did Bepo’s fellow tenant, Iya Matthew, pour on his head after he had embezzled the compound’s electricity tariff?",
+  options: [
+    "A bowl of pie",
+    "A bucket of water",
+    "A bowl of elubo",
+    "Fistfuls of sand"
+  ],
+  answer: "A bowl of elubo",
+  explanation: "In anger, Iya Matthew poured a bowl of yam flour (elubo) on Bepo’s head after discovering he used the compound’s funds.",
+  reference: "The event is described humorously, showing how Bepo was publicly embarrassed in the compound."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was the topic of the debate at Bepo’s send-off?",
+  options: [
+    "Migration: A curse or a blessing?",
+    "Who shapes the future: Teachers or parents?",
+    "The arts have contributed more to national development than the sciences",
+    "Public schools vs. private schools: Which is better?"
+  ],
+  answer: "Migration: A curse or a blessing?",
+  explanation: "The farewell debate centred around migration, reflecting the novel’s major theme and Bepo’s internal conflict.",
+  reference: "Students discussed whether migration was beneficial or harmful to individuals and society."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what eventually happened to Mr Ogo in the novel?",
+  options: [
+    "He was arrested for murder",
+    "He relocated to the UK successfully",
+    "He became a pastor",
+    "He opened a new private school"
+  ],
+  answer: "He became a pastor",
+  explanation: "Mr Ogo later turned to ministry, leaving behind his previous lifestyle for spiritual service.",
+  reference: "The narrative reveals that Mr Ogo eventually found peace as a full-time pastor."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, according to the novel, the Gurara Waterfall was actually discovered in which year?",
+  options: ["1845", "1745", "1925", "1625"],
+  answer: "1745",
+  explanation: "The Gurara Waterfall, one of Nigeria’s famous natural attractions, was recorded as being discovered in 1745.",
+  reference: "During the excursion lesson, students learned that Gurara Falls was first noted in 1745."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, according to the novel, who built the first-storey building in Nigeria?",
+  options: [
+    "Bishop Samuel Ajayi Crowther",
+    "Lord Frederick Lugard",
+    "Henry Townsend",
+    "Lord Bernard Shaw"
+  ],
+  answer: "Henry Townsend",
+  explanation: "Reverend Henry Townsend built the first-storey building in Badagry, a key historical site visited by the students.",
+  reference: "The teacher explained that Reverend Henry Townsend was responsible for building Nigeria’s first-storey house."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what does Bepo mean by the term 'new slavery'?",
+  options: [
+    "The forced labour system in Nigerian schools",
+    "The economic challenges of the working class brought on by bad governance",
+    "The exploitation of teachers by private school owners",
+    "The voluntary migration to foreign countries to join their workforce"
+  ],
+  answer: "The voluntary migration to foreign countries to join their workforce",
+  explanation: "Bepo described modern migration as 'new slavery', where Africans willingly work under stressful conditions abroad for survival.",
+  reference: "He remarked that modern migration is self-imposed slavery in the search for greener pastures."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what is the name of the passport office that Bepo plans to visit to renew his passport?",
+  options: [
+    "Mokola Passport Centre",
+    "Agodi-Gate Passport Office",
+    "Dugbe Immigration Office",
+    "Bodija Passport Centre"
+  ],
+  answer: "Agodi-Gate Passport Office",
+  explanation: "Bepo chose to visit the Agodi-Gate Passport Office in Ibadan because he heard the process was faster there.",
+  reference: "He decided to renew his passport at the Agodi-Gate office after friends advised him it was less crowded."
+},
+{
+  question: "From the novel *The Lekki Headmaster*, what was inscribed on the banner at Bepo’s send-off?",
+  options: [
+    "A Principal Like No Other",
+    "For He Gave Stardom His Very Best",
+    "Goodbye to Our Mentor",
+    "We Will Miss You, Mr Bepo!"
+  ],
+  answer: "For He Gave Stardom His Very Best",
+  explanation: "The farewell banner read 'For He Gave Stardom His Very Best', a tribute to Bepo’s years of dedication and impact.",
+  reference: "The students proudly displayed the banner with the inscription 'For He Gave Stardom His Very Best' during the ceremony."
 }
 ];
 
