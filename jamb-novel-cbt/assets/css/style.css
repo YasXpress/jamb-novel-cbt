@@ -50,6 +50,14 @@ body {
   letter-spacing: 0.5px;
 }
 
+.supported-by {
+  font-size: 0.9rem;
+  color: #555;
+  text-align: center;
+  margin-top: 4px;
+  font-style: italic;
+}
+
 /* Main Section */
 .main-content {
   flex: 1;
