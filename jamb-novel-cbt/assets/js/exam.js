@@ -48,10 +48,21 @@ const nextBtn = document.getElementById("next-btn");
 const submitBtn = document.getElementById("submit-btn");
 const progressFill = document.getElementById("progress-fill");
 
+const accessInfo = document.getElementById("access-info");
+
 // -----------------------------
 // Display first question
 // -----------------------------
 window.onload = () => {
+
+  if (isPremium) {
+    accessInfo.textContent =
+      "Premium Access: Questions 1–30 from a bank of 154 questions. Good luck!";
+  } else {
+    accessInfo.textContent =
+      "Free Mode: You can access Questions 1–20 only. Upgrade to Premium to unlock the full 154-question bank.";
+  }
+
   showQuestion(currentQuestion);
 };
 
