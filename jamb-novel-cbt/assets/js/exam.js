@@ -3,7 +3,7 @@
    ==================================== */
 
 // Question limits
-const FREE_LIMIT = 20;
+const FREE_LIMIT = 5;
 const PREMIUM_LIMIT = 154;
 const PREMIUM_BATCH = 30; // Only 30 questions shown each time
 
@@ -60,7 +60,7 @@ window.onload = () => {
       "Premium Access: Questions 1–30 from a bank of 154 questions. Good luck!";
   } else {
     accessInfo.textContent =
-      "Free Mode: You can access Questions 1–20 only. Upgrade to Premium to unlock the full 154-question bank.";
+      "Free Mode: You can access Questions 1–5 only. Upgrade to Premium to unlock the full 154-question bank.";
   }
 
   showQuestion(currentQuestion);
